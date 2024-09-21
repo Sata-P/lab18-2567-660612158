@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "jsonwebtoken": "^9.0.2",
+    "lecture18": "file:",
     "lodash": "^4.17.21",
     "next": "14.2.12",
     "react": "^18",
